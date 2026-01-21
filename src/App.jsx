@@ -4,7 +4,7 @@ import { Rocket, Zap, Globe, ArrowRight } from 'lucide-react';
 
 const App = () => {
   return (
-    <div style={{ minHeight: '100vh', background: '#050505', color: 'white', overflowX: 'hidden', fontFamily: '"Outfit", sans-serif' }}>
+    <div style={{ minHeight: '100vh', background: '#050505', color: 'white', overflowX: 'hidden', fontFamily: 'sans-serif' }}>
       
       {/* Navbar */}
       <nav style={{ 
